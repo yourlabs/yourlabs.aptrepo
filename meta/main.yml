@@ -2,6 +2,7 @@
 galaxy_info:
   author: James Pic
   description: Role to add an apt repo
+  role_name: aptrepo
   company: YourLabs
   issue_tracker_url: https://yourlabs.io/oss/yourlabs.aptrepo/issues
   license: MIT
